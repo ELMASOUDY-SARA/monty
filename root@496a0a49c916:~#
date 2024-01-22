@@ -1,0 +1,66 @@
+
+t@496a0a49c916:~/monty# ls
+main.c  README.md
+root@496a0a49c916:~/monty# vi add.c
+root@496a0a49c916:~/monty# vi addnode.c
+root@496a0a49c916:~/monty# vi div.c
+root@496a0a49c916:~/monty# vi execute.c
+root@496a0a49c916:~/monty# vi free_stack.c
+root@496a0a49c916:~/monty# rm main.c
+root@496a0a49c916:~/monty# vi main.c
+root@496a0a49c916:~/monty# vi mod.c
+root@496a0a49c916:~/monty# vi monty.h
+root@496a0a49c916:~/monty# vi mul.c
+root@496a0a49c916:~/monty# vi nop.c
+root@496a0a49c916:~/monty# vi pall.c
+root@496a0a49c916:~/monty# vi pchar.c
+root@496a0a49c916:~/monty# vi pint.c
+root@496a0a49c916:~/monty# vi pop.c
+root@496a0a49c916:~/monty# vi pstr.c
+root@496a0a49c916:~/monty# vi push.c
+root@496a0a49c916:~/monty# vi queue.c
+root@496a0a49c916:~/monty# vi rotl.c
+root@496a0a49c916:~/monty# vi
+
+t@496a0a49c916:~/monty# ls
+main.c  README.md
+root@496a0a49c916:~/monty# vi add.c
+root@496a0a49c916:~/monty# vi addnode.c
+root@496a0a49c916:~/monty# vi div.c
+root@496a0a49c916:~/monty# vi execute.c
+root@496a0a49c916:~/monty# vi free_stack.c
+root@496a0a49c916:~/monty# rm main.c
+root@496a0a49c916:~/monty# vi main.c
+root@496a0a49c916:~/monty# vi mod.c
+root@496a0a49c916:~/monty# vi monty.h
+root@496a0a49c916:~/monty# vi mul.c
+root@496a0a49c916:~/monty# vi nop.c
+root@496a0a49c916:~/monty# vi pall.c
+root@496a0a49c916:~/monty# vi pchar.c
+root@496a0a49c916:~/monty# vi pint.c
+root@496a0a49c916:~/monty# vi pop.c
+root@496a0a49c916:~/monty# vi pstr.c
+root@496a0a49c916:~/monty# vi push.c
+root@496a0a49c916:~/monty# vi queue.c
+root@496a0a49c916:~/monty# vi rotl.c
+root@496a0a49c916:~/monty# vi
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+                                                              24,0-1        All
+
